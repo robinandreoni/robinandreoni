@@ -33,7 +33,7 @@ Sviluppatore software e ideatore dell'ecosistema **Tortuga Italia**. Mi dedico a
 | **🐢 [TortuTorrent](https://github.com/robinandreoni/TortuTorrent)** | Web / Node.js / WebTorrent | Unified Cyberpunk Torrent Meta-Search Engine & Live Streaming Client. |
 | **🎵 [TortugaMusic](https://github.com/robinandreoni/TortugaMusic)** | Android (APK) & PC (Web) | Suite audio cross-platform con APK Android nativo e server locale PC. |
 | **📺 TortugaTV Standalone** | Web / Desktop / Python | Media server e suite di streaming locale per gestione e fruizione contenuti. |
-| **🎙️ TrascriviVoce AI** | Desktop / AI | Strumento di trascrizione vocale automatizzata ad alta precisione con modelli AI locali. |
+| **🎙️ [TortuTrascrittore](https://github.com/robinandreoni/TortuTrascrittore)** | Desktop (.NET 8 WPF) / AI | Strumento di trascrizione vocale offline ad alta precisione con OpenAI Whisper. |
 | **🌐 Tortuga Italia** | Web | Portale ufficiale e hub centrale dei servizi e prodotti software Tortuga. |
 
 ---
