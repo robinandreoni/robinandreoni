@@ -30,6 +30,7 @@ Sviluppatore software e ideatore dell'ecosistema **Tortuga Italia**. Mi dedico a
 | Progetto | Piattaforma | Descrizione |
 | :--- | :--- | :--- |
 | **🛡️ [TorNet](https://github.com/robinandreoni/TorNet)** | Web / FastAPI / React | Unified, Semi-Automated Penetration Testing & Vulnerability Assessment Platform. |
+| **🐢 [TortuTorrent](https://github.com/robinandreoni/TortuTorrent)** | Web / Node.js / WebTorrent | Unified Cyberpunk Torrent Meta-Search Engine & Live Streaming Client. |
 | **🎵 TortugaMusic** | Android & PC | Riproduttore musicale e suite audio con build dedicate per Android (APK/AAB) e PC. |
 | **📺 TortugaTV Standalone** | Web / Desktop / Python | Media server e suite di streaming locale per gestione e fruizione contenuti. |
 | **🎙️ TrascriviVoce AI** | Desktop / AI | Strumento di trascrizione vocale automatizzata ad alta precisione con modelli AI locali. |
